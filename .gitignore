@@ -31,3 +31,8 @@
 # Ignore key files for decrypting credentials and more.
 /config/*.key
 
+
+.env
+master.key
+node_modules
+coverage
